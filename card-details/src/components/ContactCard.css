@@ -1,0 +1,20 @@
+.container{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin: 20px 400px ;
+    border: 1px solid red;
+    height: 50px;
+    position:relative;
+    
+}
+.container img{
+width: 60px;
+height: 60px;
+border-radius: 50%;
+}
+.curser-on-details:hover{
+cursor: pointer;
+}
